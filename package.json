@@ -1,0 +1,27 @@
+{
+  "name": "10",
+  "version": "1.0.0",
+  "description": "HW",
+  "main": "10.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenBiz/10HW.git"
+  },
+  "keywords": [
+    "HW",
+    "alenbiz"
+  ],
+  "author": "AlenBiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenBiz/10HW/issues"
+  },
+  "homepage": "https://github.com/AlenBiz/10HW#readme",
+  "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1",
+    "jest": "^29.3.1"
+  }
+}
